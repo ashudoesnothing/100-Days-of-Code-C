@@ -1,7 +1,7 @@
 # 🚀 100 Days of Code — UPES Challenge
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
-![Progress](https://img.shields.io/badge/Progress-Day%206-success.svg)
+![Progress](https://img.shields.io/badge/Progress-Day%207-success.svg)
 
 Welcome to my repository for the **100 Days of Code Challenge** at UPES! 🎓
 This repository contains my daily solutions to the coding problems provided in the challenge curriculum. 
@@ -57,7 +57,8 @@ You will need a C compiler like `gcc` installed on your machine.
 - [x] Day 4: Advanced Swap & Loops
 - [x] Day 5: Simple/Compound Interest & Time Conversion
 - [x] Day 6: Conditional Logic (`if`, `else-if`, `else`)
-- [ ] Day 7 to 100: *Coming Soon!*
+- [x] Day 7: Leap Year & Vowel Check
+- [ ] Day 8 to 100: *Coming Soon!*
 
 ---
 *Happy Coding!* 🚀💻
