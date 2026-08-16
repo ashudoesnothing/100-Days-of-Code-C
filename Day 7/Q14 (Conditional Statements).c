@@ -17,9 +17,9 @@ int main(){
         // Check if it is a vowel using logical OR
         if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
             ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
-            printf("%c is a Vowel\n", ch);
+            printf("Vowel\n");
         } else {
-            printf("%c is a Consonant\n", ch);
+            printf("Consonant\n");
         }
     } else {
         // Handle invalid input (numbers, symbols)
