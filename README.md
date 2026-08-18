@@ -1,7 +1,7 @@
 # 🚀 100 Days of Code — UPES Challenge
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
-![Progress](https://img.shields.io/badge/Progress-Day%208-success.svg)
+![Progress](https://img.shields.io/badge/Progress-Day%209-success.svg)
 
 Welcome to my repository for the **100 Days of Code Challenge** at UPES! 🎓
 This repository contains my daily solutions to the coding problems provided in the challenge curriculum. 
@@ -59,7 +59,8 @@ You will need a C compiler like `gcc` installed on your machine.
 - [x] Day 6: Conditional Logic (`if`, `else-if`, `else`)
 - [x] Day 7: Leap Year & Vowel Check
 - [x] Day 8: Character Types & Largest Number
-- [ ] Day 9 to 100: *Coming Soon!*
+- [x] Day 9: Quadratic Roots & Grade Calculator
+- [ ] Day 10 to 100: *Coming Soon!*
 
 ---
 *Happy Coding!* 🚀💻
