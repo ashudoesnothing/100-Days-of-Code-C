@@ -1,7 +1,7 @@
 # 🚀 100 Days of Code — UPES Challenge
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
-![Progress](https://img.shields.io/badge/Progress-Day%2010-success.svg)
+![Progress](https://img.shields.io/badge/Progress-Day%2011-success.svg)
 
 Welcome to my repository for the **100 Days of Code Challenge** at UPES! 🎓
 This repository contains my daily solutions to the coding problems provided in the challenge curriculum. 
@@ -61,7 +61,8 @@ You will need a C compiler like `gcc` installed on your machine.
 - [x] Day 8: Character Types & Largest Number
 - [x] Day 9: Quadratic Roots & Grade Calculator
 - [x] Day 10: Triangle Types & Switch Case Days
-- [ ] Day 11 to 100: *Coming Soon!*
+- [x] Day 11: Month Days & Profit/Loss Percentage
+- [ ] Day 12 to 100: *Coming Soon!*
 
 ---
 *Happy Coding!* 🚀💻
